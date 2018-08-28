@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello to myself!" );
-        System.out.println( "zxl.z2 has Finishing CI Course123453" );
+        System.out.println( "zxl.z2 has Finishing CI Course" );
     }
 }
